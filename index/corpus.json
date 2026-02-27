@@ -1,0 +1,17 @@
+[
+  {
+    "source": "data/UCI-Info.txt",
+    "chunk_id": 0,
+    "text": "UC Irvine (UCI) Tour Guide Notes\n\nOVERVIEW\nUC Irvine is a public research university located in Irvine, California. The campus is known for its circular design centered around Aldrich Park.\n\nALDRICH PARK\nAldrich Park is the large central park at the heart of UCI. Many major academic buildings ring the park, and it’s a common gathering place for students.\n\nSTUDENT CENTER\nThe UCI Student Center is a hub for student life with dining options, meeting spaces, and services. Nearby is the Food Court area and student services offices.\n\nSCIENCE LIBRARY & LANGSON LIBRARY\nUCI has major libraries including Langson Library (main humanities/social sciences) and the Science Library (science/engineering focus). Libraries offer study spaces, reservable rooms, and research support.\n\nENGINEERING / ICS AREAS\nEngineering and computer science areas include buildings near the Engineering Gateway and Donald Bre"
+  },
+  {
+    "source": "data/UCI-Info.txt",
+    "chunk_id": 1,
+    "text": "s, and research support.\n\nENGINEERING / ICS AREAS\nEngineering and computer science areas include buildings near the Engineering Gateway and Donald Bren Hall (ICS). Students often visit these areas for labs, lectures, and office hours.\n\nDINING\nUCI has dining halls and food options around campus. Students commonly eat at the Student Center area or nearby plazas. (Exact dining options vary by year.)\n\nPARKING & TRANSPORTATION\nUCI uses permit-based parking in designated zones and structures. Many students also use bikes, scooters, and campus shuttles when available.\n\nCAMPUS VIBE & TIPS\n- Most walking routes orbit Aldrich Park.\n- Plan extra time between classes; campus can be a 10–20 minute walk depending on buildings.\n- Comfortable shoes help for tours and class days.\n\nFAQ\nQ: Where is the center of campus?\nA: Aldrich Park is considered the center of campus.\n\nQ: Where do students study?\nA: Lib"
+  },
+  {
+    "source": "data/UCI-Info.txt",
+    "chunk_id": 2,
+    "text": "r tours and class days.\n\nFAQ\nQ: Where is the center of campus?\nA: Aldrich Park is considered the center of campus.\n\nQ: Where do students study?\nA: Libraries (Langson, Science Library), study rooms, and quiet areas around the park.\n\nQ: Where do students hang out?\nA: Student Center, Aldrich Park, and areas near major plazas."
+  }
+]
