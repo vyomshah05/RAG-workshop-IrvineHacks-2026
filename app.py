@@ -11,7 +11,7 @@ def print_sources(retrieved):
         print(f"  - {src} (chunk {r['chunk_id']}, score={r['score']:.3f})")
 
 def main():
-    print("UCI Tour Guide RAG Bot (local + free)")
+    print("UCI Tour Guide RAG Bot")
     print("Type 'exit' to quit.\n")
 
     bot = RAGBot()
